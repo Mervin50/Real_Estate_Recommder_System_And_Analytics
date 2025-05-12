@@ -1,7 +1,9 @@
 Real_Estate_Recommender_And_Analytics [[Link of the deployed website](http://13.51.242.103:8501/)]
 ==============================
 
-A short description of the project.
+
+Our real estate website provides city-level analytics, including spatial analysis, price distribution, and feature word clouds. It features a price prediction module based on property attributes, a recommender system for similar apartments, and insightful visualizations, all websites made with help of streamlit are deployed on AWS using to help users make informed property decisions.
+
 
 Project Organization
 ------------
@@ -60,7 +62,7 @@ Project Organization
 
 # Real-Estate-Recommender-System-and-Analytics [website/app link](http://13.51.242.103:8501/)
 
-Our real estate website provides city-level analytics, including spatial analysis, price distribution, and feature word clouds. It features a price prediction module based on property attributes, a recommender system for similar apartments, and insightful visualizations, all websites made with help of streamlit are deployed on AWS using to help users make informed property decisions.
+![realtor-assistance_23-2148672112](https://github.com/user-attachments/assets/8369cbb3-af6f-4c4b-a4b4-bd82b0476427)
 
 # 1. Introduction:
 Our project is a real estate platform that leverages analytics, price prediction, and recommendation systems to help users make informed property decisions through visual insights and data-driven predictions. Real Estate Recommender [website](http://51.20.103.30:8501) deployed on AWS.
